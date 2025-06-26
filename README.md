@@ -39,7 +39,7 @@ This is a dynamic To-Do application built using **React.js**, **Vite** and **JSO
 ```
 React-Todo-App-jsonserver/
 │
-├── dist/                     # Production-ready build (generated after `npm run build`)
+├── docs/                     # Production-ready build (generated after `npm run build`)
 ├── Images/                   # Screenshots or image assets used in README
 ├── node_modules/             # Auto-generated folder containing installed npm packages
 ├── public/                   # Static files that don't go through the build process (favicon, etc.)
