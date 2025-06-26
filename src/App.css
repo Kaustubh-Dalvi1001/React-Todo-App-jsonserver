@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.containerDiv {
+  width: 100vmin;
+  padding: 2vmin;
+  margin: 5vmin auto;
+  border-radius: 2vmin;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,26 @@
+.taskTd {
+  width: 42vmin;
+}
+.taskInp {
+  width: 100%;
+  padding: 1vmin;
+  font-size: 2.5vmin;
+}
+
+.dateTd {
+  width: 30vmin;
+}
+.dateInp {
+  width: 100%;
+  padding: 1vmin;
+  font-size: 2.5vmin;
+}
+
+.btnTd {
+  width: 17vmin;
+}
+.addBtn {
+  width: 100%;
+  font-size: 2.5vmin;
+  padding: 1vmin;
+}
